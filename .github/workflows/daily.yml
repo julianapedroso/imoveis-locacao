@@ -1,0 +1,27 @@
+name: Buscar imóveis
+on:
+  schedule: [{ cron: '0 11 * * *' }]   # 11:00 UTC = 08:00 em Brasília
+  workflow_dispatch: {}                 # permite rodar manualmente
+permissions:
+  contents: write
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm install
+      - run: npx playwright install --with-deps chromium
+      - run: node scrape.js
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: { name: debug, path: debug/, if-no-files-found: ignore }
+      - name: Salvar estado (imóveis já vistos)
+        run: |
+          git config user.name "bot"; git config user.email "bot@users.noreply.github.com"
+          git add seen.json
+          git diff --staged --quiet || (git commit -m "atualiza imóveis vistos" && git push)

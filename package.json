@@ -1,0 +1,7 @@
+{
+  "name": "imoveis-guara",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node scrape.js", "test": "node test-parse.js" },
+  "dependencies": { "playwright": "^1.48.0" }
+}
