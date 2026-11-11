@@ -1,6 +1,4 @@
-# Dependency directories
 node_modules/
 debug
 
-# dotenv environment variable files
 .env
