@@ -6,7 +6,7 @@ só o que é NOVO ou teve o PREÇO ALTERADO (com foto, valor e dados).
 ## 1. Criar o bot do Telegram (2 min)
 1. No Telegram, fale com @BotFather → /newbot → guarde o TOKEN.
 2. Mande qualquer mensagem para o seu bot novo.
-3. Abra https://api.telegram.org/bot<TOKEN>/getUpdates e copie o número em "chat":{"id": ...}.
+3. Abra https://api.telegram.org/bot[TOKEN]/getUpdates e copie o número do objeto "chat":{"id": ...}.
 
 ## 2. Rodar de graça todo dia (GitHub Actions)
 1. Crie um repositório PRIVADO no GitHub e envie estes arquivos.
@@ -15,7 +15,7 @@ só o que é NOVO ou teve o PREÇO ALTERADO (com foto, valor e dados).
 
 ## Testar no seu computador
     npm install && npx playwright install chromium
-    node scrape.js        # sem as variáveis do Telegram, imprime no terminal
+    node scrape.js        
+    # sem as variáveis do Telegram, imprime no terminal
 
-## Se um site não trouxer nada
-O script salva o HTML em debug/ (e na aba Actions → artifacts). Me envie esse arquivo e eu ajusto o coletor.
+
