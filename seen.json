@@ -257,13 +257,19 @@
       "title": "6",
       "site": "Domos",
       "firstSeen": "2026-11-11T13:11:12.151Z"
+    },
+    "https://ferriloriggio.com.br/locacao/L01467-casa-com-2-quartos-1-banheiro-e-59m-para-alugar-no-bairro-santa-rita-guaratingueta": {
+      "price": 800,
+      "title": "CÓD. L01467",
+      "site": "Ferri Loriggio",
+      "firstSeen": "2026-11-11T14:13:28.825Z"
     }
   },
   "counts": {
     "Wanor França": 8,
     "Imobiliária 3A": 3,
     "Vale Mais": 8,
-    "Ferri Loriggio": 28,
+    "Ferri Loriggio": 29,
     "Oliveira Alves": 0,
     "Rony": 10,
     "Domos": 5
