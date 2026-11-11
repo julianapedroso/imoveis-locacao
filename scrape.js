@@ -136,7 +136,8 @@ for (const n of novos.slice(0, MAX_SEND)) {
 }
 if (novos.length > MAX_SEND) await send(`… e mais ${novos.length - MAX_SEND} imóveis. Eles aparecem completos amanhã se você apagar o limite no código.`);
 for (const a of avisos) await send(a);
-if (!novos.length) console.log('😴 Nada novo hoje...');
+
+if (!novos.length) await send('😴 Nada novo hoje...');
 
 await browser.close();
 fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2));
