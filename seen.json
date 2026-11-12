@@ -263,13 +263,25 @@
       "title": "CÓD. L01467",
       "site": "Ferri Loriggio",
       "firstSeen": "2026-11-11T14:13:28.825Z"
+    },
+    "https://www.wanorimoveis.com.br/imovel/casa-guaratingueta-3-quartos-147-m/CA1417-WANO": {
+      "price": 1600,
+      "title": "CA1417-WANO",
+      "site": "Wanor França",
+      "firstSeen": "2026-11-12T18:39:59.708Z"
+    },
+    "https://ferriloriggio.com.br/locacao/L01305-casa-com-1-quarto-para-alugar-no-bairro-sao-manoel-guaratingueta": {
+      "price": 660,
+      "title": "CÓD. L01305",
+      "site": "Ferri Loriggio",
+      "firstSeen": "2026-11-12T18:40:22.737Z"
     }
   },
   "counts": {
-    "Wanor França": 8,
+    "Wanor França": 9,
     "Imobiliária 3A": 3,
     "Vale Mais": 8,
-    "Ferri Loriggio": 29,
+    "Ferri Loriggio": 30,
     "Oliveira Alves": 0,
     "Rony": 10,
     "Domos": 4
