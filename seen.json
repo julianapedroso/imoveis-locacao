@@ -275,15 +275,21 @@
       "title": "CÓD. L01305",
       "site": "Ferri Loriggio",
       "firstSeen": "2026-11-12T18:40:22.737Z"
+    },
+    "https://ferriloriggio.com.br/locacao/L03850-casa-com-2-quartos-1-banheiro-e-100m-para-alugar-no-bairro-jardim-esperanca-guaratingueta": {
+      "price": 1200,
+      "title": "CÓD. L03850",
+      "site": "Ferri Loriggio",
+      "firstSeen": "2026-11-14T16:49:54.632Z"
     }
   },
   "counts": {
     "Wanor França": 9,
     "Imobiliária 3A": 3,
-    "Vale Mais": 8,
-    "Ferri Loriggio": 0,
+    "Vale Mais": 9,
+    "Ferri Loriggio": 31,
     "Oliveira Alves": 0,
-    "Rony": 9,
+    "Rony": 8,
     "Domos": 3
   }
 }
