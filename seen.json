@@ -281,12 +281,18 @@
       "title": "CÓD. L03850",
       "site": "Ferri Loriggio",
       "firstSeen": "2026-11-14T16:49:54.632Z"
+    },
+    "https://www.imobiliaria3a.com/imovel/casa-guaratingueta-2-quartos-66-m/CA0455-REDG": {
+      "price": 1200,
+      "title": "CA0455-REDG",
+      "site": "Imobiliária 3A",
+      "firstSeen": "2026-11-16T20:10:02.588Z"
     }
   },
   "counts": {
-    "Wanor França": 9,
-    "Imobiliária 3A": 3,
-    "Vale Mais": 9,
+    "Wanor França": 8,
+    "Imobiliária 3A": 4,
+    "Vale Mais": 8,
     "Ferri Loriggio": 31,
     "Oliveira Alves": 0,
     "Rony": 8,
