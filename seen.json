@@ -287,15 +287,21 @@
       "title": "CA0455-REDG",
       "site": "Imobiliária 3A",
       "firstSeen": "2026-11-16T20:10:02.588Z"
+    },
+    "https://valemaisimoveis.com.br/imovel/casa-sao-benedito-guaratingueta-sp-2-quartos-80m2-CA1444": {
+      "price": 850,
+      "title": "Campinho, Guaratinguetá - SP",
+      "site": "Vale Mais",
+      "firstSeen": "2026-11-17T19:31:00.273Z"
     }
   },
   "counts": {
     "Wanor França": 8,
     "Imobiliária 3A": 4,
-    "Vale Mais": 8,
-    "Ferri Loriggio": 30,
+    "Vale Mais": 9,
+    "Ferri Loriggio": 0,
     "Oliveira Alves": 0,
     "Rony": 8,
-    "Domos": 3
+    "Domos": 0
   }
 }
