@@ -293,15 +293,21 @@
       "title": "Campinho, Guaratinguetá - SP",
       "site": "Vale Mais",
       "firstSeen": "2026-11-17T19:31:00.273Z"
+    },
+    "https://ferriloriggio.com.br/locacao/L00992-casa-com-1-quarto-e-21m-para-alugar-no-bairro-pedreira-guaratingueta": {
+      "price": 500,
+      "title": "CÓD. L00992",
+      "site": "Ferri Loriggio",
+      "firstSeen": "2026-11-18T19:13:45.410Z"
     }
   },
   "counts": {
     "Wanor França": 8,
     "Imobiliária 3A": 4,
-    "Vale Mais": 9,
-    "Ferri Loriggio": 0,
+    "Vale Mais": 10,
+    "Ferri Loriggio": 30,
     "Oliveira Alves": 0,
-    "Rony": 8,
+    "Rony": 7,
     "Domos": 0
   }
 }
