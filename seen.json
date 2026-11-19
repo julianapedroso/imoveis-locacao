@@ -299,15 +299,21 @@
       "title": "CÓD. L00992",
       "site": "Ferri Loriggio",
       "firstSeen": "2026-11-18T19:13:45.410Z"
+    },
+    "https://www.rony.com.br/imoveis/casa-residencial-com-2-quartos-e-suite-para-aluguel-no-pedregulho-guaratingueta/2687": {
+      "price": 1700,
+      "title": "Aluguel",
+      "site": "Rony",
+      "firstSeen": "2026-11-19T19:18:59.712Z"
     }
   },
   "counts": {
     "Wanor França": 8,
     "Imobiliária 3A": 4,
     "Vale Mais": 10,
-    "Ferri Loriggio": 30,
+    "Ferri Loriggio": 0,
     "Oliveira Alves": 0,
-    "Rony": 7,
+    "Rony": 8,
     "Domos": 0
   }
 }
