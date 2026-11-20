@@ -305,13 +305,19 @@
       "title": "Aluguel",
       "site": "Rony",
       "firstSeen": "2026-11-19T19:18:59.712Z"
+    },
+    "https://ferriloriggio.com.br/locacao/L03555-casa-com-2-quartos-e-1-banheiro-para-alugar-no-bairro-parque-do-sol-guaratingueta": {
+      "price": 1610,
+      "title": "CÓD. L03555",
+      "site": "Ferri Loriggio",
+      "firstSeen": "2026-11-20T18:56:14.259Z"
     }
   },
   "counts": {
     "Wanor França": 8,
     "Imobiliária 3A": 4,
-    "Vale Mais": 10,
-    "Ferri Loriggio": 0,
+    "Vale Mais": 9,
+    "Ferri Loriggio": 31,
     "Oliveira Alves": 0,
     "Rony": 8,
     "Domos": 0
