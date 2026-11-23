@@ -311,15 +311,21 @@
       "title": "CÓD. L03555",
       "site": "Ferri Loriggio",
       "firstSeen": "2026-11-20T18:56:14.259Z"
+    },
+    "https://ferriloriggio.com.br/locacao/L03585-casa-com-1-quarto-e-1-banheiro-para-alugar-no-bairro-sao-dimas-guaratingueta": {
+      "price": 500,
+      "title": "CÓD. L03585",
+      "site": "Ferri Loriggio",
+      "firstSeen": "2026-11-23T19:44:42.404Z"
     }
   },
   "counts": {
-    "Wanor França": 8,
+    "Wanor França": 7,
     "Imobiliária 3A": 4,
-    "Vale Mais": 9,
+    "Vale Mais": 8,
     "Ferri Loriggio": 31,
     "Oliveira Alves": 0,
-    "Rony": 8,
+    "Rony": 7,
     "Domos": 0
   }
 }
