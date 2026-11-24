@@ -317,15 +317,21 @@
       "title": "CÓD. L03585",
       "site": "Ferri Loriggio",
       "firstSeen": "2026-11-23T19:44:42.404Z"
+    },
+    "https://www.rony.com.br/imoveis/casa-para-aluguel-parque-do-sol-guaratingueta/2704": {
+      "price": 1600,
+      "title": "Aluguel",
+      "site": "Rony",
+      "firstSeen": "2026-11-24T18:01:09.037Z"
     }
   },
   "counts": {
     "Wanor França": 7,
-    "Imobiliária 3A": 4,
-    "Vale Mais": 8,
-    "Ferri Loriggio": 31,
+    "Imobiliária 3A": 3,
+    "Vale Mais": 9,
+    "Ferri Loriggio": 32,
     "Oliveira Alves": 0,
-    "Rony": 7,
+    "Rony": 8,
     "Domos": 0
   }
 }
