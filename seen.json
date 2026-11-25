@@ -323,11 +323,17 @@
       "title": "Aluguel",
       "site": "Rony",
       "firstSeen": "2026-11-24T18:01:09.037Z"
+    },
+    "https://www.imobiliaria3a.com/imovel/casa-guaratingueta-3-quartos-96-m/CA1178-REDG": {
+      "price": 1400,
+      "title": "CA1178-REDG",
+      "site": "Imobiliária 3A",
+      "firstSeen": "2026-11-25T20:20:26.567Z"
     }
   },
   "counts": {
-    "Wanor França": 7,
-    "Imobiliária 3A": 3,
+    "Wanor França": 6,
+    "Imobiliária 3A": 4,
     "Vale Mais": 9,
     "Ferri Loriggio": 31,
     "Oliveira Alves": 0,
