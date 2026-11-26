@@ -16,7 +16,7 @@ Consulta 7 imobiliárias todos os dias, filtra casas até determinado valor em u
 "chat": {
     "id": ######,
     ...
-    }.
+    },
 ```
 
 ## 2. Rodar de graça todo dia (GitHub Actions)
